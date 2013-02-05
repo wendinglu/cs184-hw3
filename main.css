@@ -1,0 +1,41 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, sans-serif;
+	background-color: #ddd;
+	font-size: 1em;
+	width: 900px;
+	margin: auto;
+}
+
+h1 {
+	font-size: 2em;
+	font-weight: 200;
+}
+
+h2 {
+	font-size: 1.8em;
+	color: blue;
+}
+
+h3 {
+	font-size: 1.5em;
+	color: green;
+}
+
+p {
+	font-size: 0.8em;
+	color:#222;
+}
+
+time {
+	color: red;
+	font-weight: bold;
+}
+
+strong {
+	font-size: 2em;
+}
+
+a {
+	color: #333fdd;
+	font-weight: bold;
+}
